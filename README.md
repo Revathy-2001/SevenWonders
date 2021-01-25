@@ -1,1 +1,1 @@
-# SevenWonders
+![SevenWonders](/SevenWonders.png)
